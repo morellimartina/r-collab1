@@ -14,10 +14,12 @@ includes both content as well as the output of any embedded R code
 chunks within the document. You can embed an R code chunk like this:
 
 ``` r
-dim(cars)
+mean(cars)
 ```
 
-    ## [1] 50  2
+    ## Warning in mean.default(cars): argument is not numeric or logical: returning NA
+
+    ## [1] NA
 
 ## Including Plots
 
