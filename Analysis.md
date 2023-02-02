@@ -14,10 +14,10 @@ includes both content as well as the output of any embedded R code
 chunks within the document. You can embed an R code chunk like this:
 
 ``` r
-nrow(cars)
+dim(cars)
 ```
 
-    ## [1] 50
+    ## [1] 50  2
 
 ## Including Plots
 
