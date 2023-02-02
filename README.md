@@ -1,6 +1,7 @@
 # r-collab1
 r collab with Marie
 first change by Marie
-second change by Marie
-This is a line made by Martina
-Change made by Martina
+second change by Marie + Martina
+Making a merge conflict!
+Marie tries to do another merge conflict!
+
